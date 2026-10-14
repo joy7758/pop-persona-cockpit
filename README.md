@@ -1,3 +1,5 @@
+> **Moved:** this repository has been merged into [joy7758/persona-object-protocol](https://github.com/joy7758/persona-object-protocol/tree/main/pop-persona-cockpit) with full history. This repo is archived and read-only.
+
 <!-- language-switch:start -->
 [English](./README.md) | [中文](./README.zh-CN.md)
 <!-- language-switch:end -->
